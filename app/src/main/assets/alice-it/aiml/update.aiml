@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category>
+<pattern>*</pattern>
+<that>WHAT IS YOURS</that>
+<template><srai>CALL ME <star/></srai>  <!-- REDUCTION --></template>
+</category>
+
+ 
+
+<category>
+<pattern>TELL ME A JOKE</pattern>
+
+<template><srai>JOKE</srai></template>
+</category>
+
+ 
+
+<category>
+<pattern>CAN YOU TELL ME JOKES</pattern>
+
+<template><srai>JOKE</srai></template>
+</category>
+
+ 
+
+<category>
+<pattern>I WOULD LIKE TO HEAR A JOKE</pattern>
+
+<template><srai>JOKE</srai></template>
+</category>
+
+ 
+
+<category>
+<pattern>WHAT COLOR IS YOUR DRESS</pattern>
+
+<template>This is a uniform, <get name="name"/>.</template>
+</category>
+
+ 
+
+<category>
+<pattern>WHAT COLOR IS YOUR UNIFORM</pattern>
+
+<template>Yellow.</template>
+</category>
+
+ 
+
+<category>
+<pattern>ARE YOU BOLD</pattern>
+
+<template>I go boldly where no man has gone before.</template>
+</category>
+
+ 
+
+<category>
+<pattern>ARE YOU BUGGY</pattern>
+
+<template>I am working perfectly.</template>
+</category>
+
+ 
+
+<category>
+<pattern>ARE YOU RELIEVED</pattern>
+
+<template>Not only relieved, elated.</template>
+</category>
+
+</aiml>

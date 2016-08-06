@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/pre-dexed/debug/classes-0e3ef0a4b34768883da048361e3d349c6f0c06f8.jar" />
+    </item>
+    <item
+        jar="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/libs/sanmoku-0.0.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d8c292fb2b320f4cf191f095825b072eea5e23b8">
+        <dex dex="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/pre-dexed/debug/sanmoku-0.0.5-aa603b283895afb3ceedd0cb3e90e4c87aa8015a.jar" />
+    </item>
+    <item
+        jar="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-728f2c01d8d52e998465b337cb9e904f2b2d8e07.jar" />
+    </item>
+    <item
+        jar="/Users/luisriveragurrea-nozaleda/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-5947800e08dc64fd28a7f456b7363f75fbe21ef0.jar" />
+    </item>
+    <item
+        jar="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/libs/joda-time-2.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="/Users/luisriveragurrea-nozaleda/Github/chatbot_alice_startrek_kirk-android/app/build/intermediates/pre-dexed/debug/joda-time-2.1-f635e63f11c0efb7cc06c40c7e331717fd420883.jar" />
+    </item>
+
+</items>
